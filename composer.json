@@ -1,0 +1,17 @@
+{
+    "name": "cgs/pdf-merge-project",
+    "require": {
+        "setasign/fpdf": "^1.8",
+        "setasign/fpdi": "^2.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cgs\\PdfMergeProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michael Vangelovski"
+        }
+    ]
+}
